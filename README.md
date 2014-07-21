@@ -1,11 +1,10 @@
-## PDXNode / Nodebots Hack Day 2013
+## PDXNode / Nodebots Hack Day 2014
 chat with us on irc.freenode.net at #pdxnodebots
 
 
 REGISTER NOW!
 =============
-https://github.com/PDXNode/nodebotsday
-
+https://ti.to/pdxnode/nodebotsday
 
 ------------------------
 We will also be updating via  
